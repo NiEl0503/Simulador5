@@ -76,5 +76,5 @@ ES: Este proyecto fue una excelente oportunidad para integrar habilidades técni
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link)](https://www.linkedin.com/in/ninoska-contreras)
 
-#### Obrigado por visitar o meu projeto! / ¡Gracias por visitar mi proyecto!
+#### Obrigada por visitar o meu projeto! / ¡Gracias por visitar mi proyecto!
 
